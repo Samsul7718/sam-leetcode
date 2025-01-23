@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Amstrong {
     public static void main(String[] args) {
-        int n,c,r,rem,arm=0;
+        int n,c,rem,arm=0;
         System.out.print("Enter any number");
         Scanner sc=new Scanner(System.in);
         n=sc.nextInt();
